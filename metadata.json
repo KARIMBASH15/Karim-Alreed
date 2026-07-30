@@ -1,0 +1,8 @@
+{
+  "name": "Remix Ludo \u0026 Domino Pro Elite",
+  "description": "Professional Ludo and Domino game featuring voice chat, daily rewards, and secure credit exchange for online competitive play.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
